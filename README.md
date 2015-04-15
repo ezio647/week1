@@ -1,1 +1,1 @@
-#<manowar>'s cool edit.
+# \<manowar\>'s cool edit.
